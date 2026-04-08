@@ -16,6 +16,7 @@ int main() {
     for(i = 0; i < 5; i++) {
         printf("Element %d = %d\n", i + 1, *(ptr + i));
     }
+printf("\n25331A05G6\n");
 
     return 0;
 }
