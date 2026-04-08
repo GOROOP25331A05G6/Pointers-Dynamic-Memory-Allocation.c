@@ -41,6 +41,6 @@ int main() {
 
     free(ptr1);
     free(ptr2);
-
+printf("\n25331A05G6\n");
     return 0;
 }
