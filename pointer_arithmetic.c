@@ -23,6 +23,6 @@ int main() {
         printf("Value = %d\n", *ptr);
         ptr++;
     }
-
+printf("\n25331A05G6\n");
     return 0;
 }
